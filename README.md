@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANikolaevich.
-- 👀 I’m interested in full stack js+python.
+- 👀 I’m interested in frontend.
 - 🌱 I’m currently learning front-end.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mail: artem.khodakivskyi@gmail.com, telegram: @ArNikolaevich, linkedin.com/in/artem-khodakivskyi-207a52231
