@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANikolaevich.
-- 👀 I’m interested in front-end.
-- 🌱 I’m currently learning front-end.
+- 👀 I’m interested in java.
+- 🌱 I’m currently learning fjava.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mail: artem.khodakivskyi@gmail.com, telegram: @ArNikolaevich, linkedin.com/in/artem-khodakivskyi-207a52231
 
